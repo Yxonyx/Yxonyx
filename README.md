@@ -1,6 +1,6 @@
 # Jonatan Kaiser
 
-**Software Engineer | Agentic Engineering | Architecture, Review and Delivery**
+**Software Engineer | Agentic Engineering | Context Engineering | Data Engineering**
 
 I'm Jonatan Kaiser (Kaiser Jonatán), a software engineer designing and building software products across system architecture, backend services, mobile applications, and user-facing interfaces.
 
