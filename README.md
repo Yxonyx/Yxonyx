@@ -1,17 +1,19 @@
 # Jonatan Kaiser
 
-**Software Engineer · AI-Native Development · Full-Stack Architecture**
+**Software Engineer | Full-Stack Development | System Architecture**
 
-I'm Jonatan Kaiser (Kaiser Jonatán), a software engineer building intelligent, scalable products — health apps, open-source Android tools and AI-powered systems — with AI agents as a core part of how I work.
+I'm Jonatan Kaiser (Kaiser Jonatán), a software engineer designing and building software products across system architecture, backend services, mobile applications, and user-facing interfaces.
 
-[LinkedIn](https://www.linkedin.com/in/kaiser-j-06786632b/) · [Hololisa](https://hololisa.com) · [CyberLabs Web](https://cyberlabsweb.com) · [GitHub](https://github.com/Yxonyx)
+My work includes health technology, open-source Android tools, and AI-enabled software systems. I focus on practical engineering, maintainable architecture, and taking products from concept to deployment.
 
-## What I'm building
+[LinkedIn](https://www.linkedin.com/in/kaiser-j-06786632b/) · [Hololisa](https://hololisa.com) · [CyberLabs Web](https://cyberlabsweb.com)
+
+## Selected projects
 
 - **[Hololisa](https://hololisa.com)** — Founder & Software Engineer. A privacy-first health companion for Android and iOS, built on a shared Kotlin Multiplatform core with a body twin. Native UI, health data kept on the phone.
 - **[CyberLabs Web](https://cyberlabsweb.com)** — Software Developer. Custom websites, e-commerce stores and AI chatbots for small businesses.
 
-## Selected open source
+## Selected open-source work
 
 | Project | What it is |
 |---|---|
@@ -21,3 +23,7 @@ I'm Jonatan Kaiser (Kaiser Jonatán), a software engineer building intelligent, 
 | [ios-keyboard-for-android](https://github.com/Yxonyx/ios-keyboard-for-android) | An iOS-inspired Android keyboard for people who find Android typing hard after an iPhone. |
 | [awesome-digital-wellbeing](https://github.com/Yxonyx/awesome-digital-wellbeing) | A curated list to help you live offline in such an online world. |
 | [aws-chicago-taxi-pipeline](https://github.com/Yxonyx/aws-chicago-taxi-pipeline) | Data pipeline: Chicago taxi trips, weather and community areas, cleaned and merged with Python, loaded to AWS S3 via Lambda, analysed in Jupyter. |
+
+## Development approach
+
+I use modern development tools, including AI-assisted workflows, to accelerate implementation and iteration. Architecture, technical decisions, validation, and product quality remain central to my engineering process.
