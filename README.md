@@ -24,4 +24,4 @@ My work includes health technology, open-source Android tools, and AI-enabled so
 
 ## Development approach
 
-I use modern development tools, including AI-assisted workflows, to accelerate implementation and iteration. Architecture, technical decisions, validation, and product quality remain central to my engineering process.
+I work with agentic engineering: I design the architecture and make the technical decisions, direct AI coding agents to implement them, and review and verify the result before it ships.
