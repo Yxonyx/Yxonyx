@@ -1,6 +1,6 @@
 # Jonatan Kaiser
 
-**Software Engineer | Full-Stack Development | System Architecture**
+**Software Engineer | Agentic Engineering | Architecture, Review and Delivery**
 
 I'm Jonatan Kaiser (Kaiser Jonatán), a software engineer designing and building software products across system architecture, backend services, mobile applications, and user-facing interfaces.
 
