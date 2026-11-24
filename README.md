@@ -17,6 +17,7 @@ My work includes health technology, open-source Android tools, and AI-enabled so
 
 | Project | What it is |
 |---|---|
+| [inkling-mlx-agent](https://github.com/Yxonyx/inkling-mlx-agent) | Local Inkling 2 Mini on Apple Silicon for Pi and OpenCode: native MLX serving with exact token-prefix reuse, benchmarked on M2 Max, plus an experimental attention LoRA training pipeline. |
 | [feedcut](https://github.com/Yxonyx/feedcut) | Android app that closes Instagram Reels, YouTube Shorts and TikTok and takes the feed out of Facebook. No internet permission. [XERJ Corpus](https://hub.xerj.org/corpus/yxonyx--feedcut) |
 | [pitwall](https://github.com/Yxonyx/pitwall) | The pit wall for your coding agents: one room for people and the agents on your machines, with honest task states. |
 | [ios-keyboard-for-android](https://github.com/Yxonyx/ios-keyboard-for-android) | An iOS-inspired Android keyboard for people who find Android typing hard after an iPhone. |
